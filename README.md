@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github Pages](https://naiwilliams.github.io/Four-Card-Feature-Section/)
+- Solution URL: [Github Pages](https://naiwilliams.github.io/FrEndMen-Four-Card-Feature-Section/)
 
 ## My process
 
